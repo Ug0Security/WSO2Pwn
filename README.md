@@ -1,6 +1,6 @@
 # WSO2Pwn
 check admin:admin (cred par défaut) sur les services type WSO2 (Identity, Entreprise Service Bus, Entreprise Integrator ect..)
-besoin de tor en 127.0.0.1:9050
+scan via tor en 127.0.0.1:9050
 
 le ZIP est une application Carbon (reverse shell)
 
