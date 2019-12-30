@@ -7,3 +7,6 @@ le ZIP est une application Carbon (reverse shell)
 il faut set l'ip, le port et le type de shell (/bin/bash, cmd.exe) dans pack_1.0.0.zip\HelloWorld_1.0.0\HelloWorld-1.0.0.xml
 puis modifier l'extension en .car avant de déployer.
 
+
+shodan:carbon
+zoomeye: "Server: WSO2 Carbon Server"
