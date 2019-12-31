@@ -1,8 +1,9 @@
 # WSO2Pwn
-check admin:admin (cred par défaut) sur les services type WSO2 (Identity, Entreprise Service Bus, Entreprise Integrator ect..)
+check admin:admin (cred par défaut) sur les services type WSO2 (Identity, Entreprise Service Bus, Entreprise Integrator, Api Manager, ect..)
 scan via tor en 127.0.0.1:9050
 
 python WSOpwn.py -i dom -t 50
+
 
 le ZIP est une application Carbon (reverse shell)
 
