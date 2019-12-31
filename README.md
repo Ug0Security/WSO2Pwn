@@ -7,8 +7,7 @@ python WSOpwn.py -i dom -t 50
 
 #Pour Pwn Entreprise Service Bus, Entreprise Integrator:
 
-go IP:PORT/carbon et deploie une application carbon
-le ZIP est une application Carbon (reverse shell)
+go IP:PORT/carbon et deploie une application carbon, le ZIP est une application Carbon (reverse shell)
 
 il faut set l'ip, le port et le type de shell (/bin/bash, cmd.exe) dans pack_1.0.0.zip\HelloWorld_1.0.0\HelloWorld-1.0.0.xml
 puis modifier l'extension en .car avant de déployer.
